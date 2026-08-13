@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Small greeting line -->
-👋 Hi, I'm **[ Nahian ]**
+👋 Hi, I'm ** Nahian **
 
 <!-- Banner with name + role embedded directly in the image — edit text= and desc= below -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:134E4A&height=220&section=header&text=%5B%20Your%20Name%20%5D&fontSize=48&fontColor=ffffff&desc=%5B%20Your%20Role%20%2F%20Field%20%5D&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
