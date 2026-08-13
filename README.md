@@ -1,15 +1,15 @@
 <div align="center">
 
 <!-- Small greeting line -->
-👋 Hi, I'm **[ Your Name ]**
+👋 Hi, I'm **[ Nahian ]**
 
 <!-- Banner with name + role embedded directly in the image — edit text= and desc= below -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:134E4A&height=220&section=header&text=%5B%20Your%20Name%20%5D&fontSize=48&fontColor=ffffff&desc=%5B%20Your%20Role%20%2F%20Field%20%5D&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- Badges — GitHub and a custom badge omitted, just LinkedIn / Portfolio / Email -->
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tawshifnahian)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yourwebsite.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ntawshif@gmail.com)
 
 <br/>
 
