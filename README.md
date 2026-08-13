@@ -1,24 +1,26 @@
 <div align="center">
 
-<!-- Banner: swap "text=" and colors, or delete this block entirely if you prefer a plain header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=YOUR%20NAME&fontSize=48&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<!-- Small greeting line -->
+👋 Hi, I'm **[ Your Name ]**
 
-<!-- Tagline placeholder — replace the text below with your own, e.g. "Java Backend Developer | Spring Boot" -->
-<p><code>Your Role Here</code> · <code>Your Focus Here</code></p>
+<!-- Banner with name + role embedded directly in the image — edit text= and desc= below -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:134E4A&height=220&section=header&text=%5B%20Your%20Name%20%5D&fontSize=48&fontColor=ffffff&desc=%5B%20Your%20Role%20%2F%20Field%20%5D&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
+
+<!-- Badges — GitHub and a custom badge omitted, just LinkedIn / Portfolio / Email -->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yourwebsite.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yourwebsite.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
+<!-- Animated typing tagline, cycling the two lines you gave -->
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&pause=1200&color=4C9BE8&center=true&vCenter=true&width=600&lines=Let%27s+make+these+machines+talk+proper;Causal+interference+%7C+Trustworthy+AI" alt="Typing SVG" />
 
 </div>
 
-### 👋 About Me
-
-I'm **Your Name**, a [your role, e.g. data scientist / backend engineer] based in [your city/country].
-I work on [1-2 concrete focus areas, e.g. "Bayesian statistics and predictive modeling for social science applications"].
-Currently exploring: [something you're learning or building].
+> 🏆 [ Achievement one — e.g. an award, ranking, or recognition ]
+> 📊 [ Achievement two — e.g. a measurable impact or metric ]
+> 🎙️ [ Achievement three — e.g. a talk, publication, or media mention ]
 
 ---
 
