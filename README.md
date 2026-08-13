@@ -11,16 +11,10 @@
 <br/><br/>
 
 <!-- TOP SOCIAL & PORTFOLIO LINKS -->
-<p>
-  <a href="https://YOUR_USERNAME.github.io/YOUR_PORTFOLIO_REPO/">
-    <img src="https://img.shields.io/badge/Portfolio-🌐-121013?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="YOUR_LINKEDIN_URL_HERE">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:YOUR_EMAIL_HERE">
-    <img src="https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
-  </a>
+<p align="center">
+  <a href="https://YOUR_USERNAME.github.io/YOUR_PORTFOLIO_REPO/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-121013?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="YOUR_LINKEDIN_URL_HERE"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/></a>
 </p>
 
 </div>
