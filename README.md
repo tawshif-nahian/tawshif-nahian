@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Small greeting line -->
-👋 Hi, I'm Nahian
+👋 Hi, I'm **MD Tawshif Islam Nahian**
 
 <!-- Banner with name + role embedded directly in the image — edit text= and desc= below -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:134E4A&height=220&section=header&text=%5B%20Your%20Name%20%5D&fontSize=48&fontColor=ffffff&desc=%5B%20Your%20Role%20%2F%20Field%20%5D&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:134E4A&height=220&section=header&text=MD%20Tawshif%20Islam%20Nahian&fontSize=42&fontColor=ffffff&desc=ML%20Researcher%20%7C%20AI%20Engineer%20%7C%20Computational%20Science&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- Badges — GitHub and a custom badge omitted, just LinkedIn / Portfolio / Email -->
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
@@ -20,7 +20,6 @@
 
 > 🏆 [ Achievement one — e.g. an award, ranking, or recognition ]
 > 📊 [ Achievement two — e.g. a measurable impact or metric ]
-> 🎙️ [ Achievement three — e.g. a talk, publication, or media mention ]
 
 ---
 
