@@ -30,7 +30,8 @@
 | 💼 **Day Job** | AI Engineer building intelligent agents for EdTech and advancing AI-powered smart insulin delivery technologies for diabetics |
 | 🎯 **Doing** | Making ML *statistically honest* — causal inference, fairness, uncertainty, no p-hacking |
 | 🏆 **Won** | 1st Best Paper @ SPECTRA 2026 |
-| 📄 **Publishing** | 1 journal article, 1 invited book chapter, 2 more in review |
+| 📄**Publishing** | 1 journal article, 1 invited book chapter, 2 more in review |
+| 🎥 **Creative Endeavors** | Directed 3 short films, wrote multiple screenplays, and won 1st place in a creative writing competition |
 | 🔭 **Next** | Hunting for a Master's / PhD in Computational Science / Applied AI / Systems Engineering |
 
 ---
