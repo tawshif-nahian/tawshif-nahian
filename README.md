@@ -27,9 +27,10 @@
 
 | Section | Focus & Milestones |
 | :--- | :--- |
+| 💼 **Day Job** | AI Engineer building intelligent agents for EdTech and advancing AI-powered smart insulin delivery technologies for diabetics |
 | 🎯 **Doing** | Making ML *statistically honest* — causal inference, fairness, uncertainty, no p-hacking |
-| 🏆 **Won** | 1st Best Paper @ SPECTRA 2026 · Best Paper @ APMEE 2025 |
-| 📄 **Publishing** | 1 journal article, 1 invited book chapter, 7 conference papers, 2 more in review |
+| 🏆 **Won** | 1st Best Paper @ SPECTRA 2026 |
+| 📄 **Publishing** | 1 journal article, 1 invited book chapter, 2 more in review |
 | 🔭 **Next** | Hunting for a Master's / PhD in Computational Science / Applied AI / Systems Engineering |
 
 ---
