@@ -7,7 +7,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:134E4A&height=220&section=header&text=MD%20Tawshif%20Islam%20Nahian&fontSize=42&fontColor=ffffff&desc=ML%20Researcher%20%7C%20AI%20Engineer%20%7C%20Computational%20Science&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- Badges — GitHub and a custom badge omitted, just LinkedIn / Portfolio / Email -->
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tawshifnahian/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yourwebsite.com)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ntawshif@gmail.com)
 
