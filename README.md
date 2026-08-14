@@ -14,7 +14,7 @@
 <br/>
 
 <!-- Animated typing tagline, cycling the two lines you gave -->
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&pause=1200&color=4C9BE8&center=true&vCenter=true&width=600&lines=Let%27s+make+these+machines+talk+proper;Causal+interference+%7C+Trustworthy+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&pause=1200&color=4C9BE8&center=true&vCenter=true&width=600&lines=Let%27s+make+these+machines+talk+proper;Causal+Interference+%7C+Trustworthy+AI" alt="Typing SVG" />
 
 <p align="center">
   <b>🏆 Best Paper Award (1st Place) at SPECTRA 2026</b>
