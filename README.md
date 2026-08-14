@@ -23,6 +23,82 @@
 
 ---
 
+### ⚡ A Quick Follow Through
+
+| Section | Focus & Milestones |
+| :--- | :--- |
+| 🎯 **Doing** | Making ML *statistically honest* — causal inference, fairness, uncertainty, no p-hacking |
+| 🏆 **Won** | 1st Best Paper @ SPECTRA 2026 · Best Paper @ APMEE 2025 |
+| 📄 **Publishing** | 1 journal article, 1 invited book chapter, 7 conference papers, 2 more in review |
+| 🔭 **Next** | Hunting for a Master's / PhD in Computational Science / Applied AI / Systems Engineering |
+
+---
+
+### 🧠 What I Actually Do
+
+Most ML pipelines quietly skip the statistics part. I don't. I build systems where every claim — a model's accuracy, a policy's effect, a paper's result — has to survive a hypothesis test before I believe it.
+
+That means: causal inference instead of correlation-shrugging, uncertainty quantification instead of point-estimate overconfidence, and reproducibility checks instead of *"trust me, it ran on my machine."*
+
+Say it in one line: ***statistically rigorous, causally grounded, reproducible ML*** — for problems big enough to matter (governance, fairness, public policy).
+
+---
+
+### 📚 Research Experience
+
+<details>
+  <summary><b>🏆 Award-winning work</b></summary>
+  <br/>
+  
+  * **Ahmed, S.J., Islam Nahian, M.T., & Kwoshik, M.H.R. (2026).** *"CF-EGAT: A Causal Fairness-Aware Equity Graph Attention Network for Country-Level Environmental Livability Classification."* Symposium on Photonics, Emerging Computational Technologies, Research & AI-Data Science (SPECTRA 2026). Oral Presentation. 🏆 **1st Best Paper Award.** [DOI: 10.5281/zenodo.21195761](https://doi.org/10.5281/zenodo.21195761)
+  * **Ahmed, S.J. (2025).** *"Multi-Dimensional Statistical Similarity for Governance Classification: Beyond Arbitrary Thresholds in Comparative Politics."* 6th Annual Paper Meet Electrical Engineering Division (APMEE 2025). Oral Presentation. 🏆 **Best Research Paper Award.**
+</details>
+
+<details>
+  <summary><b>📄 Journal & conference publications</b></summary>
+  <br/>
+
+  * **Ahmed, S.J., Kwoshik, M.H.R., & Islam Nahian, M.T. (2026).** *"Machine Learning for Crime Classification: A Fairness-Aware Approach to Class Imbalance."* Journal of Machine Learning and Applications, 2(1), 9–17. [DOI: 10.61577/jmla.2026.100002](https://doi.org/10.61577/jmla.2026.100002)
+  * **Ahmed, S.J., Islam Nahian, M.T., & Kwoshik, M.H.R. (2026).** *"RMA-BO: Regret-Minimizing Adaptive Bayesian Optimization."* SPECTRA 2026. Oral Presentation. [DOI: 10.5281/zenodo.21194394](https://doi.org/10.5281/zenodo.21194394)
+  * **Ahmed, S.J., Islam Nahian, M.T., & Kwoshik, M.H.R. (2026).** *"Environmental Livability Assessment via Adaptive Bootstrap-Retrained SHAP and Statistically-Constrained Pareto Counterfactuals: A Cross-National Analysis."* 5th IEEE International Conference on Signal Processing, Information, Communication and Systems (SPICSCON 2026). BAUET, Bangladesh. August 13–14, 2026. Accepted for Presentation. IEEE Xplore.
+  * **Ahmed, S.J., Kwoshik, M.H.R., & Islam Nahian, M.T. (2026).** *"Machine Learning for Crime Classification: A Fairness-Aware Approach to Class Imbalance."* SPICSCON 2026. BAUET, Bangladesh. August 13–14, 2026. Accepted for Presentation. IEEE Xplore.
+  * **Ahmed, S.J. (2026).** *"DeepEnMap: Ordinal-Aware Multi-Modal Deep Learning for Energy Poverty Risk Mapping."* IEMIS 2026 — 4th International Conference on Emerging Technologies in Data Mining and Information Security. UBC, Vancouver, Canada. August 10–12, 2026. Accepted for Presentation. Springer LNNS Series.
+  * **Ahmed, S.J. (2026).** *"Density-Decoupled, Mask-Ablated Segmentation-Guided Diffusion for Controllable Mammography Synthesis: A Preliminary Study."* IEMIS 2026 — 4th International Conference on Emerging Technologies in Data Mining and Information Security. UBC, Vancouver, Canada. August 10–12, 2026. Accepted for Presentation. Springer LNNS Series.
+</details>
+
+<details>
+  <summary><b>📝 Manuscripts under review</b></summary>
+  <br/>
+
+  * *Manuscript Title / Working Draft 1* — Under peer review at [Journal / Conference Name] (2026).
+  * *Manuscript Title / Working Draft 2* — Under peer review at [Journal / Conference Name] (2026).
+</details>
+
+---
+
+### 🎭 Day Job vs. Side Quests
+
+* **FinTech & Software Engineering** — Engineering resilient backend enterprise systems, core banking logic, and transactional microservices.
+* **AI & Computational Research** — Formulating hypothesis-testing pipelines, addressing class imbalance, and applying causal fairness to real-world datasets.
+* **On the side:** Mentoring students, refining data workflows, and ensuring that software builds are reproducible by default, not by exception.
+
+---
+
+### 🎬 My Origin: Beyond the Terminal
+
+Before the hypothesis testing and terminal prompts, there was a script, a lens, and creative storytelling. Whether it's directing a sequence, crafting narrative pacing, or dissecting cinematic structure, filmmaking taught me that complex systems—just like great stories—fall apart without rhythm, structure, and clarity.
+
+Turns out, writing clean, robust backend code and producing a compelling narrative require the exact same discipline: **trimming the noise and building something worth trusting.**
+
+---
+
+<div align="center">
+  <p>🎓 <b>B.Sc. in Computer Science & Engineering, RUET</b></p>
+  <p>🎯 <b>Currently chasing:</b> A graduate research position to build rigorous, scalable systems</p>
+</div>
+
+---
+
 ### 🛠️ Tech Stack
 
 **Languages**
