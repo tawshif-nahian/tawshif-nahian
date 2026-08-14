@@ -18,8 +18,7 @@
 
 </div>
 
-> 🏆 [ Achievement one — e.g. an award, ranking, or recognition ]
-> 📊 [ Achievement two — e.g. a measurable impact or metric ]
+> 🏆 [Best Paper Award (1st Place) at SPECTRA 2026]
 
 ---
 
@@ -52,7 +51,7 @@ Say it in one line: ***statistically rigorous, causally grounded, reproducible M
   <summary><b>🏆 Award-winning work</b></summary>
   <br/>
   
-  * **S.J. Ahmed, MD Tawshif Islam Nahian, M.T., M.H.R. Kwoshik (2026).** *"CF-EGAT: A Causal Fairness-Aware Equity Graph Attention Network for Country-Level Environmental Livability Classification."* Symposium on Photonics, Emerging Computational Technologies, Research & AI-Data Science (SPECTRA 2026). Oral Presentation. 🏆 **1st Best Paper Award.** [DOI: 10.5281/zenodo.21195761](https://doi.org/10.5281/zenodo.21195761)
+  * **S.J. Ahmed, **MD Tawshif Islam Nahian**, M.T., M.H.R. Kwoshik (2026).** *"CF-EGAT: A Causal Fairness-Aware Equity Graph Attention Network for Country-Level Environmental Livability Classification."* Symposium on Photonics, Emerging Computational Technologies, Research & AI-Data Science (SPECTRA 2026). Oral Presentation. 🏆 **1st Best Paper Award.** [DOI: 10.5281/zenodo.21195761](https://doi.org/10.5281/zenodo.21195761)
  
 </details>
 
@@ -60,9 +59,9 @@ Say it in one line: ***statistically rigorous, causally grounded, reproducible M
   <summary><b>📄 Journal & conference publications</b></summary>
   <br/>
 
-  * **S.J. Ahmed, M.H.R. Kwoshik, & MD Tawshif Islam Nahian (2026).** *"Machine Learning for Crime Classification: A Fairness-Aware Approach to Class Imbalance."* Journal of Machine Learning and Applications, 2(1), 9–17. [DOI: 10.61577/jmla.2026.100002](https://doi.org/10.61577/jmla.2026.100002)
-  * **S.J. Ahmed, MD Tawshif Islam Nahian, M.H.R. Kwoshik (2026).** *"RMA-BO: Regret-Minimizing Adaptive Bayesian Optimization."* SPECTRA 2026. Oral Presentation. [DOI: 10.5281/zenodo.21194394](https://doi.org/10.5281/zenodo.21194394)
-  * **S.J. Ahmed, MD Tawshif Islam Nahian, M.H.R. Kwoshik (2026).** *"Environmental Livability Assessment via Adaptive Bootstrap-Retrained SHAP and Statistically-Constrained Pareto Counterfactuals: A Cross-National Analysis."* 5th IEEE International Conference on Signal Processing, Information, Communication and Systems (SPICSCON 2026). BAUET, Bangladesh. August 13–14, 2026. Accepted for Presentation. IEEE Xplore.
+  * **S.J. Ahmed, M.H.R. Kwoshik, & **MD Tawshif Islam Nahian** (2026).** *"Machine Learning for Crime Classification: A Fairness-Aware Approach to Class Imbalance."* Journal of Machine Learning and Applications, 2(1), 9–17. [DOI: 10.61577/jmla.2026.100002](https://doi.org/10.61577/jmla.2026.100002)
+  * **S.J. Ahmed, **MD Tawshif Islam Nahian**, M.H.R. Kwoshik (2026).** *"RMA-BO: Regret-Minimizing Adaptive Bayesian Optimization."* SPECTRA 2026. Oral Presentation. [DOI: 10.5281/zenodo.21194394](https://doi.org/10.5281/zenodo.21194394)
+  * **S.J. Ahmed, **MD Tawshif Islam Nahian**, M.H.R. Kwoshik (2026).** *"Environmental Livability Assessment via Adaptive Bootstrap-Retrained SHAP and Statistically-Constrained Pareto Counterfactuals: A Cross-National Analysis."* 5th IEEE International Conference on Signal Processing, Information, Communication and Systems (SPICSCON 2026). BAUET, Bangladesh. August 13–14, 2026. Accepted for Presentation. IEEE Xplore.
   * **S.J. Ahmed, M.H.R. Kwoshik, MD Tawshif Islam Nahian (2026).** *"Machine Learning for Crime Classification: A Fairness-Aware Approach to Class Imbalance."* SPICSCON 2026. BAUET, Bangladesh. August 13–14, 2026. Accepted for Presentation. IEEE Xplore.
  
 </details>
