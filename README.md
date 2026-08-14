@@ -52,7 +52,7 @@ Say it in one line: ***statistically rigorous, causally grounded, reproducible M
   <summary><b>🏆 Award-winning work</b></summary>
   <br/>
   
-  * **Ahmed, S.J., Islam Nahian, M.T., & Kwoshik, M.H.R. (2026).** *"CF-EGAT: A Causal Fairness-Aware Equity Graph Attention Network for Country-Level Environmental Livability Classification."* Symposium on Photonics, Emerging Computational Technologies, Research & AI-Data Science (SPECTRA 2026). Oral Presentation. 🏆 **1st Best Paper Award.** [DOI: 10.5281/zenodo.21195761](https://doi.org/10.5281/zenodo.21195761)
+  * **S.J. Ahmed,MD Tawshif Islam Nahian, M.T., M.H.R. Kwoshik (2026).** *"CF-EGAT: A Causal Fairness-Aware Equity Graph Attention Network for Country-Level Environmental Livability Classification."* Symposium on Photonics, Emerging Computational Technologies, Research & AI-Data Science (SPECTRA 2026). Oral Presentation. 🏆 **1st Best Paper Award.** [DOI: 10.5281/zenodo.21195761](https://doi.org/10.5281/zenodo.21195761)
  
 </details>
 
