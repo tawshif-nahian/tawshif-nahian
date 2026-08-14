@@ -131,14 +131,8 @@ Whether optimizing a deep learning pipeline or engineering a robust backend, the
 
 <div align="center">
 
-<!-- Main Stats Card -->
-<img src="https://github-readme-stats.azurewebsites.net/api?username=tawshif-nahian&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&v=1" height="165" alt="GitHub Stats" />
-
-<!-- Top Languages Card -->
-<img src="https://github-readme-stats.azurewebsites.net/api/top-langs/?username=tawshif-nahian&layout=compact&theme=radical&hide_border=true&v=1" height="165" alt="Top Languages" />
-
-<!-- Streak Card -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tawshif-nahian&theme=radical&hide_border=true&v=1" height="165" alt="Streak Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tawshif-nahian&theme=radical" height="165" alt="Profile Summary" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tawshif-nahian&theme=radical&hide_border=true" height="165" alt="Streak Stats" />
 
 </div>
 
