@@ -144,7 +144,7 @@ Whether optimizing a deep learning pipeline or engineering a robust backend, the
 
 <!-- Pin these same repos in your actual profile settings too -->
 - **[WishMaster (In Active Development)](https://github.com/YOUR_USERNAME/wishmaster)** — An ambitious, gamified social networking platform engineered with **Java** and **Spring Boot**, featuring dynamic reward mechanics, multi-criteria user matching, and interactive goal completion modules.
-- - **[PGCB Power Demand Forecasting](https://github.com/tawshif-nahian/pgcb-forecasting)** — An end-to-end time-series forecasting pipeline using XGBoost and LSTM deep learning to predict national grid generation (MW). Features 72-hour recursive forecasting, residual-based 95% confidence intervals, and an interactive Streamlit analytical dashboard.
+- **[PGCB Power Demand Forecasting](https://github.com/tawshif-nahian/pgcb-forecasting)** — An end-to-end time-series forecasting pipeline using XGBoost and LSTM deep learning to predict national grid generation (MW). Features 72-hour recursive forecasting, residual-based 95% confidence intervals, and an interactive Streamlit analytical dashboard.
 - **[Hotel Booking Application](https://github.com/tawshif-nahian/Hotel-booking-application-Tawshif-Islam-Nahian)** — A full-stack web reservation management system built with **PHP**, **Laravel**, and **SQLite**, implementing strict MVC architecture, server-side validation, and relational CRUD workflows.
 
 ---
