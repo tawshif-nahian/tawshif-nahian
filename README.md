@@ -53,7 +53,7 @@ Say it in one line: ***statistically rigorous, causally grounded, reproducible M
   <br/>
   
   * **Ahmed, S.J., Islam Nahian, M.T., & Kwoshik, M.H.R. (2026).** *"CF-EGAT: A Causal Fairness-Aware Equity Graph Attention Network for Country-Level Environmental Livability Classification."* Symposium on Photonics, Emerging Computational Technologies, Research & AI-Data Science (SPECTRA 2026). Oral Presentation. 🏆 **1st Best Paper Award.** [DOI: 10.5281/zenodo.21195761](https://doi.org/10.5281/zenodo.21195761)
-  * **Ahmed, S.J. (2025).** *"Multi-Dimensional Statistical Similarity for Governance Classification: Beyond Arbitrary Thresholds in Comparative Politics."* 6th Annual Paper Meet Electrical Engineering Division (APMEE 2025). Oral Presentation. 🏆 **Best Research Paper Award.**
+ 
 </details>
 
 <details>
@@ -64,8 +64,7 @@ Say it in one line: ***statistically rigorous, causally grounded, reproducible M
   * **Ahmed, S.J., Islam Nahian, M.T., & Kwoshik, M.H.R. (2026).** *"RMA-BO: Regret-Minimizing Adaptive Bayesian Optimization."* SPECTRA 2026. Oral Presentation. [DOI: 10.5281/zenodo.21194394](https://doi.org/10.5281/zenodo.21194394)
   * **Ahmed, S.J., Islam Nahian, M.T., & Kwoshik, M.H.R. (2026).** *"Environmental Livability Assessment via Adaptive Bootstrap-Retrained SHAP and Statistically-Constrained Pareto Counterfactuals: A Cross-National Analysis."* 5th IEEE International Conference on Signal Processing, Information, Communication and Systems (SPICSCON 2026). BAUET, Bangladesh. August 13–14, 2026. Accepted for Presentation. IEEE Xplore.
   * **Ahmed, S.J., Kwoshik, M.H.R., & Islam Nahian, M.T. (2026).** *"Machine Learning for Crime Classification: A Fairness-Aware Approach to Class Imbalance."* SPICSCON 2026. BAUET, Bangladesh. August 13–14, 2026. Accepted for Presentation. IEEE Xplore.
-  * **Ahmed, S.J. (2026).** *"DeepEnMap: Ordinal-Aware Multi-Modal Deep Learning for Energy Poverty Risk Mapping."* IEMIS 2026 — 4th International Conference on Emerging Technologies in Data Mining and Information Security. UBC, Vancouver, Canada. August 10–12, 2026. Accepted for Presentation. Springer LNNS Series.
-  * **Ahmed, S.J. (2026).** *"Density-Decoupled, Mask-Ablated Segmentation-Guided Diffusion for Controllable Mammography Synthesis: A Preliminary Study."* IEMIS 2026 — 4th International Conference on Emerging Technologies in Data Mining and Information Security. UBC, Vancouver, Canada. August 10–12, 2026. Accepted for Presentation. Springer LNNS Series.
+ 
 </details>
 
 <details>
