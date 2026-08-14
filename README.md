@@ -16,9 +16,11 @@
 <!-- Animated typing tagline, cycling the two lines you gave -->
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&pause=1200&color=4C9BE8&center=true&vCenter=true&width=600&lines=Let%27s+make+these+machines+talk+proper;Causal+interference+%7C+Trustworthy+AI" alt="Typing SVG" />
 
-</div>
+<p align="center">
+  <b>🏆 Best Paper Award (1st Place) at SPECTRA 2026</b>
+</p>
 
-> 🏆 [Best Paper Award (1st Place) at SPECTRA 2026]
+</div>
 
 ---
 
@@ -29,7 +31,7 @@
 | 💼 **Day Job** | AI Engineer building intelligent agents for EdTech and advancing AI-powered smart insulin delivery technologies for diabetics |
 | 🎯 **Doing** | Making ML *statistically honest* — causal inference, fairness, uncertainty, no p-hacking |
 | 🏆 **Won** | 1st Best Paper @ SPECTRA 2026 |
-| 📄**Publishing** | 1 journal article, 1 invited book chapter, 2 more in review |
+| 📄 **Publishing** | 1 journal article, 1 invited book chapter, 2 more in review |
 | 🎥 **Creative Endeavors** | Directed 3 short films, wrote multiple screenplays, and won 1st place in a creative writing competition |
 | 🔭 **Next** | Hunting for a Master's / PhD in Computational Science / Applied AI / Systems Engineering |
 
@@ -37,11 +39,11 @@
 
 ### 🧠 What I Actually Do
 
-Most ML pipelines quietly skip the statistics part. I don't. I build systems where every claim — a model's accuracy, a policy's effect, a paper's result — has to survive a hypothesis test before I believe it.
+Modern machine learning often optimizes for benchmark scores while overlooking algorithmic accountability. My research and engineering bridge that gap: I build intelligent architectures where every decision, fairness constraint, and metric is validated through rigorous empirical and statistical testing.
 
-That means: causal inference instead of correlation-shrugging, uncertainty quantification instead of point-estimate overconfidence, and reproducibility checks instead of *"trust me, it ran on my machine."*
+Rather than accepting surface-level correlations, I focus on **causal inference**, **fairness-aware learning under class imbalance**, and **reproducible pipelines** that hold up under strict scrutiny.
 
-Say it in one line: ***statistically rigorous, causally grounded, reproducible ML*** — for problems big enough to matter (governance, fairness, public policy).
+In short: ***engineering trustworthy, causally grounded, and mathematically sound AI systems built for mission-critical real-world impact.***
 
 ---
 
@@ -76,42 +78,52 @@ Say it in one line: ***statistically rigorous, causally grounded, reproducible M
 
 ---
 
-### 🎭 Day Job vs. Side Quests
+### 🎭 Research, Day Job & Side Quests
 
-* **FinTech & Software Engineering** — Engineering resilient backend enterprise systems, core banking logic, and transactional microservices.
-* **AI & Computational Research** — Formulating hypothesis-testing pipelines, addressing class imbalance, and applying causal fairness to real-world datasets.
-* **On the side:** Mentoring students, refining data workflows, and ensuring that software builds are reproducible by default, not by exception.
+* 🔬 **ML/DL & Computational Research** — Driven by a focus on trustworthy AI: designing hypothesis-testing frameworks, mitigating severe class imbalance, and integrating causal fairness into graph attention architectures.
+* 🤖 **AI Engineer** — Employed at BongoBrain IT, developing autonomous EdTech agents and driving cutting-edge R&D on AI-guided smart insulin delivery systems for diabetes management.
+* 🏦 **FinTech & Software Engineering** — Former software engineering intern; developed resilient enterprise backend logic, core banking middleware, and high-throughput transactional services.
+* 🧩 **On the Side:** Mentoring upcoming engineers, architecting *WishMaster* (a gamified social ecosystem using Java & Spring Boot), and actively volunteering for social impact initiatives.
+* 🎬 **Creative Pursuits:** Screenwriter, director, and editor of 3 independent short films; 1st-place award winner in collegiate creative writing.
 
 ---
 
 ### 🎬 My Origin: Beyond the Terminal
 
-Before the hypothesis testing and terminal prompts, there was a script, a lens, and creative storytelling. Whether it's directing a sequence, crafting narrative pacing, or dissecting cinematic structure, filmmaking taught me that complex systems—just like great stories—fall apart without rhythm, structure, and clarity.
+Before deep learning architectures, Bayesian optimization, and enterprise banking logic, my foundation was built on storytelling, screenplays, and cinematic direction. Directing taught me that complex systems—much like compelling narratives—require precise structure, clean pacing, and zero unnecessary fluff.
 
-Turns out, writing clean, robust backend code and producing a compelling narrative require the exact same discipline: **trimming the noise and building something worth trusting.**
-
----
-
-<div align="center">
-  <p>🎓 <b>B.Sc. in Computer Science & Engineering, RUET</b></p>
-  <p>🎯 <b>Currently chasing:</b> A graduate research position to build rigorous, scalable systems</p>
-</div>
+Whether optimizing a deep learning pipeline or engineering a robust backend, the underlying discipline remains identical: **eliminating noise, preserving structure, and building something dependable.**
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
 
-**Frameworks & Tools**
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+**AI / ML & Modeling**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-150458?style=flat-square&logo=xgboost&logoColor=white)
+![LSTM / Neural Nets](https://img.shields.io/badge/LSTM%20%2F%20Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-<!-- Add/remove badges freely — full icon list at: https://github.com/badges/shields and https://simpleicons.org -->
+**Enterprise, Backend & Tools**  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Temenos T24](https://img.shields.io/badge/Temenos_T24-Core_Banking-002B49?style=flat-square)
+![TAFJ](https://img.shields.io/badge/TAFJ-Enterprise_Runtime-005A9C?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Databases**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![H2 Database](https://img.shields.io/badge/H2_Database-205493?style=flat-square&logo=databricks&logoColor=white)
 
 ---
 
@@ -128,15 +140,17 @@ Turns out, writing clean, robust backend code and producing a compelling narrati
 
 ---
 
-### 📌 Featured Projects
+### 📌 Projects
 
 <!-- Pin these same repos in your actual profile settings too -->
-- **[Project One](https://github.com/YOUR_USERNAME/project-one)** — one line on what it does and why it's interesting
-- **[Project Two](https://github.com/YOUR_USERNAME/project-two)** — one line on what it does and why it's interesting
-- **[Project Three](https://github.com/YOUR_USERNAME/project-three)** — one line on what it does and why it's interesting
+- **[WishMaster (In Active Development)](https://github.com/YOUR_USERNAME/wishmaster)** — An ambitious, gamified social networking platform engineered with **Java** and **Spring Boot**, featuring dynamic reward mechanics, multi-criteria user matching, and interactive goal completion modules.
+- **[Hotel Booking Application](https://github.com/tawshif-nahian/Hotel-booking-application-Tawshif-Islam-Nahian)** — A full-stack web reservation management system built with **PHP**, **Laravel**, and **SQLite**, implementing strict MVC architecture, server-side validation, and relational CRUD workflows.
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+  <p>🎓 <b>B.Sc. in Computer Science & Engineering, RUET</b></p>
+  <p>🎯 <b>Currently chasing:</b> A graduate research position to build rigorous, scalable systems</p>
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:134E4A&height=120&section=footer&text=Let's%20code%20our%20heart%20out&fontSize=24&fontColor=ffffff" width="100%"/>
 </div>
