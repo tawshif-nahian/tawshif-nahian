@@ -3,18 +3,18 @@
 <!-- Small greeting line -->
 👋 Hi, I'm Nahian
 
-<!-- Banner with name + role embedded directly in the image — edit text= and desc= below -->
+<!-- Banner with name + role embedded directly in the image -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:134E4A&height=220&section=header&text=MD%20Tawshif%20Islam%20Nahian&fontSize=42&fontColor=ffffff&desc=ML%20Researcher%20%7C%20AI%20Engineer%20%7C%20Computational%20Science&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
 
-<!-- Badges — GitHub and a custom badge omitted, just LinkedIn / Portfolio / Email -->
+<!-- Badges -->
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tawshifnahian/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tawshif-nahian.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=ntawshif@gmail.com)
 
 <br/>
 
-<!-- Animated typing tagline, cycling the two lines you gave -->
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&pause=1200&color=4C9BE8&center=true&vCenter=true&width=600&lines=Let%27s+make+these+machines+talk+proper;Causal+Interference+%7C+Trustworthy+AI" alt="Typing SVG" />
+<!-- Animated typing tagline -->
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&pause=1200&color=4C9BE8&center=true&vCenter=true&width=600&lines=Let%27s+make+these+machines+talk+proper;Causal+Inference+%7C+Trustworthy+AI" alt="Typing SVG" />
 
 <p align="center">
   <b>🏆 Best Paper Award (1st Place) at SPECTRA 2026</b>
@@ -71,10 +71,10 @@ In short: ***engineering trustworthy, causally grounded, and mathematically soun
   <summary><b>📝 Manuscripts under review</b></summary>
   <br/>
 
-  * *Ahmed, S.J., Islam Nahian, M.T., & Collaborators. (2026). DemocracyGuard: Testing a Divergence-Index Reconciliation of Subjective and Objective Democracy Indicators for Forecasting Adverse Regime Transitions. Under Review at Transactions on Machine Learning Research (TMLR). 
-* *Ahmed, S.J., Islam Nahian, M.T., & Collaborators. (2026). Auditing, Not Predicting: A Causal Bias-Decomposition Framework for Clinical Fairness, and a Cautionary Tale of Representation Collapse in A-ICF. Under Review at IEEE OMLET 2026. 
-* *Ahmed, S.J., Kwoshik, M.H.R., & Islam Nahian, M.T. (2026). Active Neuro-Causal Immunization (ANCI): A Conflict-Neuron Framework for Jointly Auditing Fairness, Robustness, and Privacy in Neural Classifiers. Under Review at ICRPSET 2026 (Paper ID: 132). 
-* *Ahmed, S.J., Islam Nahian, M.T., & Collaborators. (2026). FAI: Feature-Wise Adaptive Imputation via Downstream-Aware Method Selection. Under Review at ICISET 2026. 
+  * Ahmed, S.J., **Islam Nahian, M.T.**, & Collaborators. (2026). *DemocracyGuard: Testing a Divergence-Index Reconciliation of Subjective and Objective Democracy Indicators for Forecasting Adverse Regime Transitions.* Under Review at Transactions on Machine Learning Research (TMLR). 
+  * Ahmed, S.J., **Islam Nahian, M.T.**, & Collaborators. (2026). *Auditing, Not Predicting: A Causal Bias-Decomposition Framework for Clinical Fairness, and a Cautionary Tale of Representation Collapse in A-ICF.* Under Review at IEEE OMLET 2026. 
+  * Ahmed, S.J., Kwoshik, M.H.R., & **Islam Nahian, M.T.** (2026). *Active Neuro-Causal Immunization (ANCI): A Conflict-Neuron Framework for Jointly Auditing Fairness, Robustness, and Privacy in Neural Classifiers.* Under Review at ICRPSET 2026 (Paper ID: 132). 
+  * Ahmed, S.J., **Islam Nahian, M.T.**, & Collaborators. (2026). *FAI: Feature-Wise Adaptive Imputation via Downstream-Aware Method Selection.* Under Review at ICISET 2026. 
 
 </details>
 
@@ -83,8 +83,8 @@ In short: ***engineering trustworthy, causally grounded, and mathematically soun
 ### 🎭 Research, Day Job & Side Quests
 
 * 🔬 **ML/DL & Computational Research** — Driven by a focus on trustworthy AI: designing hypothesis-testing frameworks, mitigating severe class imbalance, and integrating causal fairness into graph attention architectures.
-* 🤖 **AI Engineer** — Employed at BongoBrain IT, developing autonomous EdTech agents and driving cutting-edge R&D on AI-guided smart insulin delivery systems for diabetes management.
-* 🏦 **FinTech & Software Engineering** — Former software engineering intern; developed resilient enterprise backend logic, core banking middleware, and high-throughput transactional services.
+* 🤖 **AI Engineer** — Employed at BongoBrain IT, developing autonomous multi-agent systems and intelligent workflow agents for adaptive EdTech.
+* 🏦 **FinTech & Software Engineering** — Former software engineering intern; developed resilient enterprise backend logic, core banking middleware (Temenos T24), and high-throughput transactional services.
 * 🧩 **On the Side:** Mentoring upcoming engineers, architecting *WishMaster* (a gamified social ecosystem using Java & Spring Boot), and actively volunteering for social impact initiatives.
 * 🎬 **Creative Pursuits:** Screenwriter, director, and editor of 3 independent short films; 1st-place award winner in collegiate creative writing.
 
@@ -133,8 +133,14 @@ Whether optimizing a deep learning pipeline or engineering a robust backend, the
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tawshif-nahian&theme=radical" height="165" alt="Profile Summary" />
+<img src="https://github-readme-stats.vercel.app/api?username=tawshif-nahian&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tawshif-nahian&theme=radical&hide_border=true" height="165" alt="Streak Stats" />
+
+</div>
+
+<div align="center" style="margin-top: 8px;">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawshif-nahian&layout=compact&theme=radical&hide_border=true" height="165" alt="Top Languages" />
 
 </div>
 
@@ -142,8 +148,7 @@ Whether optimizing a deep learning pipeline or engineering a robust backend, the
 
 ### 📌 Projects
 
-<!-- Pin these same repos in your actual profile settings too -->
-- **[WishMaster (In Active Development)](https://github.com/YOUR_USERNAME/wishmaster)** — An ambitious, gamified social networking platform engineered with **Java** and **Spring Boot**, featuring dynamic reward mechanics, multi-criteria user matching, and interactive goal completion modules.
+- **[WishMaster (In Active Development)](https://github.com/tawshif-nahian/wishmaster)** — An ambitious, gamified social networking platform engineered with **Java** and **Spring Boot**, featuring dynamic reward mechanics, multi-criteria user matching, and interactive goal completion modules.
 - **[PGCB Power Demand Forecasting](https://github.com/tawshif-nahian/pgcb-forecasting)** — An end-to-end time-series forecasting pipeline using XGBoost and LSTM deep learning to predict national grid generation (MW). Features 72-hour recursive forecasting, residual-based 95% confidence intervals, and an interactive Streamlit analytical dashboard.
 - **[Hotel Booking Application](https://github.com/tawshif-nahian/Hotel-booking-application-Tawshif-Islam-Nahian)** — A full-stack web reservation management system built with **PHP**, **Laravel**, and **SQLite**, implementing strict MVC architecture, server-side validation, and relational CRUD workflows.
 
