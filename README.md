@@ -63,7 +63,6 @@ In short: ***engineering trustworthy, causally grounded, and mathematically soun
 
   * S.J. Ahmed, M.H.R. Kwoshik, & **MD Tawshif Islam Nahian** (2026). *"Machine Learning for Crime Classification: A Fairness-Aware Approach to Class Imbalance."* Journal of Machine Learning and Applications, 2(1), 9–17. [DOI: 10.61577/jmla.2026.100002](https://doi.org/10.61577/jmla.2026.100002)
   * S.J. Ahmed, **MD Tawshif Islam Nahian**, M.H.R. Kwoshik (2026). *"RMA-BO: Regret-Minimizing Adaptive Bayesian Optimization."* SPECTRA 2026. Oral Presentation. [DOI: 10.5281/zenodo.21194394](https://doi.org/10.5281/zenodo.21194394)
-  * S.J. Ahmed, **MD Tawshif Islam Nahian**, M.H.R. Kwoshik (2026). *"Environmental Livability Assessment via Adaptive Bootstrap-Retrained SHAP and Statistically-Constrained Pareto Counterfactuals: A Cross-National Analysis."* 5th IEEE International Conference on Signal Processing, Information, Communication and Systems (SPICSCON 2026). BAUET, Bangladesh. August 13–14, 2026. Accepted for Presentation. IEEE Xplore.
   * S.J. Ahmed, M.H.R. Kwoshik, **MD Tawshif Islam Nahian** (2026). *"Machine Learning for Crime Classification: A Fairness-Aware Approach to Class Imbalance."* SPICSCON 2026. BAUET, Bangladesh. August 13–14, 2026. Accepted for Presentation. IEEE Xplore.
  
 </details>
@@ -72,8 +71,11 @@ In short: ***engineering trustworthy, causally grounded, and mathematically soun
   <summary><b>📝 Manuscripts under review</b></summary>
   <br/>
 
-  * *Manuscript Title / Working Draft 1* — Under peer review at [Journal / Conference Name] (2026).
-  * *Manuscript Title / Working Draft 2* — Under peer review at [Journal / Conference Name] (2026).
+  * *Ahmed, S.J., Islam Nahian, M.T., & Collaborators. (2026). DemocracyGuard: Testing a Divergence-Index Reconciliation of Subjective and Objective Democracy Indicators for Forecasting Adverse Regime Transitions. Under Review at Transactions on Machine Learning Research (TMLR). 
+* *Ahmed, S.J., Islam Nahian, M.T., & Collaborators. (2026). Auditing, Not Predicting: A Causal Bias-Decomposition Framework for Clinical Fairness, and a Cautionary Tale of Representation Collapse in A-ICF. Under Review at IEEE OMLET 2026. 
+* *Ahmed, S.J., Kwoshik, M.H.R., & Islam Nahian, M.T. (2026). Active Neuro-Causal Immunization (ANCI): A Conflict-Neuron Framework for Jointly Auditing Fairness, Robustness, and Privacy in Neural Classifiers. Under Review at ICRPSET 2026 (Paper ID: 132). 
+* *Ahmed, S.J., Islam Nahian, M.T., & Collaborators. (2026). FAI: Feature-Wise Adaptive Imputation via Downstream-Aware Method Selection. Under Review at ICISET 2026. 
+
 </details>
 
 ---
