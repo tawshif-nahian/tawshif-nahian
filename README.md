@@ -63,7 +63,7 @@ In short: ***engineering trustworthy, causally grounded, and mathematically soun
 
   * S.J. Ahmed, M.H.R. Kwoshik, & **MD Tawshif Islam Nahian** (2026). *"Machine Learning for Crime Classification: A Fairness-Aware Approach to Class Imbalance."* Journal of Machine Learning and Applications, 2(1), 9–17. [DOI: 10.61577/jmla.2026.100002](https://doi.org/10.61577/jmla.2026.100002)
   * S.J. Ahmed, **MD Tawshif Islam Nahian**, M.H.R. Kwoshik (2026). *"RMA-BO: Regret-Minimizing Adaptive Bayesian Optimization."* SPECTRA 2026. Oral Presentation. [DOI: 10.5281/zenodo.21194394](https://doi.org/10.5281/zenodo.21194394)
-  * S.J. Ahmed, M.H.R. Kwoshik, **MD Tawshif Islam Nahian** (2026). *"Machine Learning for Crime Classification: A Fairness-Aware Approach to Class Imbalance."* SPICSCON 2026. BAUET, Bangladesh. August 13–14, 2026. Accepted for Presentation. IEEE Xplore.
+  
  
 </details>
 
